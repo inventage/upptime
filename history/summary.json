@@ -40,18 +40,20 @@
     "url": "https://keycloak.ch",
     "icon": "https://favicons.githubusercontent.com/keycloak.ch",
     "slug": "keycloak-competence-center",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 234,
-    "timeDay": 76,
-    "timeWeek": 258,
-    "timeMonth": 234,
-    "timeYear": 234,
-    "dailyMinutesDown": {}
+    "time": 233,
+    "timeDay": 145,
+    "timeWeek": 252,
+    "timeMonth": 233,
+    "timeYear": 233,
+    "dailyMinutesDown": {
+      "2021-01-04": 0
+    }
   },
   {
     "name": "Portal Components",

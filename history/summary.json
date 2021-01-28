@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 79,
-    "timeDay": 51,
-    "timeWeek": 85,
-    "timeMonth": 71,
+    "timeDay": 103,
+    "timeWeek": 84,
+    "timeMonth": 72,
     "timeYear": 79,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "99.96%",
     "uptimeYear": "99.98%",
     "time": 760,
-    "timeDay": 846,
-    "timeWeek": 747,
-    "timeMonth": 737,
+    "timeDay": 762,
+    "timeWeek": 746,
+    "timeMonth": 740,
     "timeYear": 760,
     "dailyMinutesDown": {
       "2021-01-05": 17
@@ -43,16 +43,16 @@
     "icon": "https://favicons.githubusercontent.com/keycloak.ch",
     "slug": "keycloak-competence-center",
     "status": "up",
-    "uptime": "99.95%",
+    "uptime": "99.96%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.92%",
-    "uptimeYear": "99.95%",
-    "time": 213,
-    "timeDay": 195,
-    "timeWeek": 191,
-    "timeMonth": 200,
-    "timeYear": 213,
+    "uptimeYear": "99.96%",
+    "time": 215,
+    "timeDay": 362,
+    "timeWeek": 222,
+    "timeMonth": 205,
+    "timeYear": 215,
     "dailyMinutesDown": {
       "2021-01-04": 33
     }
@@ -69,9 +69,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 167,
-    "timeDay": 144,
-    "timeWeek": 180,
-    "timeMonth": 177,
+    "timeDay": 172,
+    "timeWeek": 172,
+    "timeMonth": 179,
     "timeYear": 167,
     "dailyMinutesDown": {}
   }

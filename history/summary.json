@@ -64,17 +64,17 @@
     "url": "https://inventage.github.io/portal-components",
     "icon": "https://favicons.githubusercontent.com/inventage.github.io",
     "slug": "portal-components",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 143,
-    "timeDay": 73,
-    "timeWeek": 97,
-    "timeMonth": 119,
-    "timeYear": 143,
+    "time": 144,
+    "timeDay": 152,
+    "timeWeek": 114,
+    "timeMonth": 122,
+    "timeYear": 144,
     "dailyMinutesDown": {}
   }
 ]

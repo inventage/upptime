@@ -5,17 +5,23 @@
     "icon": "https://favicons.githubusercontent.com/www.google.com",
     "slug": "google",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 78,
-    "timeDay": 72,
-    "timeWeek": 88,
-    "timeMonth": 76,
-    "timeYear": 78,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.95%",
+    "time": 77,
+    "timeDay": 58,
+    "timeWeek": 83,
+    "timeMonth": 75,
+    "timeYear": 77,
+    "dailyMinutesDown": {
+      "2021-02-05": 25,
+      "2021-01-31": 74,
+      "2021-01-05": 17,
+      "2021-01-04": 33,
+      "2020-12-07": 9
+    }
   },
   {
     "name": "Inventage",
@@ -29,9 +35,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 764,
-    "timeDay": 894,
-    "timeWeek": 909,
-    "timeMonth": 790,
+    "timeDay": 752,
+    "timeWeek": 901,
+    "timeMonth": 789,
     "timeYear": 764,
     "dailyMinutesDown": {
       "2021-01-05": 17
@@ -49,9 +55,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.92%",
     "time": 212,
-    "timeDay": 275,
-    "timeWeek": 242,
-    "timeMonth": 225,
+    "timeDay": 192,
+    "timeWeek": 218,
+    "timeMonth": 224,
     "timeYear": 212,
     "dailyMinutesDown": {
       "2021-02-05": 25,
@@ -65,16 +71,22 @@
     "icon": "https://favicons.githubusercontent.com/inventage.github.io",
     "slug": "portal-components",
     "status": "down",
-    "uptime": "100.00%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 144,
-    "timeDay": 152,
-    "timeWeek": 114,
-    "timeMonth": 122,
-    "timeYear": 144,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.90%",
+    "time": 143,
+    "timeDay": 137,
+    "timeWeek": 97,
+    "timeMonth": 120,
+    "timeYear": 143,
+    "dailyMinutesDown": {
+      "2021-02-05": 25,
+      "2021-01-31": 74,
+      "2021-01-05": 17,
+      "2021-01-04": 33,
+      "2020-12-07": 9
+    }
   }
 ]

@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 101,
-    "timeDay": 60,
-    "timeWeek": 137,
-    "timeMonth": 103,
+    "timeDay": 96,
+    "timeWeek": 136,
+    "timeMonth": 104,
     "timeYear": 100,
     "dailyMinutesDown": {}
   },
@@ -29,9 +29,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 833,
-    "timeDay": 2039,
-    "timeWeek": 944,
-    "timeMonth": 776,
+    "timeDay": 677,
+    "timeWeek": 915,
+    "timeMonth": 777,
     "timeYear": 824,
     "dailyMinutesDown": {
       "2022-06-30": 39,
@@ -46,16 +46,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.ch.ico",
     "slug": "keycloak-competence-center",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "99.80%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.62%",
     "time": 445,
-    "timeDay": 216,
+    "timeDay": 126,
     "timeWeek": 166,
-    "timeMonth": 358,
-    "timeYear": 366,
+    "timeMonth": 204,
+    "timeYear": 347,
     "dailyMinutesDown": {
       "2022-10-03": 90,
       "2022-09-30": 16,
@@ -67,8 +67,7 @@
       "2022-06-21": 555,
       "2022-06-10": 31,
       "2022-04-29": 406,
-      "2022-04-01": 134,
-      "2021-12-27": 15
+      "2022-04-01": 134
     }
   },
   {
@@ -83,8 +82,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 111,
-    "timeDay": 27,
-    "timeWeek": 100,
+    "timeDay": 129,
+    "timeWeek": 87,
     "timeMonth": 115,
     "timeYear": 108,
     "dailyMinutesDown": {

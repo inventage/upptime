@@ -10,6 +10,8 @@ sites:
     url: https://inventage.com
   - name: Keycloak Competence Center
     url: https://keycloak.ch
+  - name: Uniport
+    url: https://uniport.ch
   - name: Portal Components
     url: https://inventage.github.io/portal-components
 

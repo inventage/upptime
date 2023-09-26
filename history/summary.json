@@ -4,18 +4,20 @@
     "url": "https://www.google.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
     "slug": "google",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 101,
-    "timeDay": 164,
-    "timeWeek": 147,
-    "timeMonth": 96,
-    "timeYear": 102,
-    "dailyMinutesDown": {}
+    "time": 102,
+    "timeDay": 336,
+    "timeWeek": 192,
+    "timeMonth": 109,
+    "timeYear": 103,
+    "dailyMinutesDown": {
+      "2023-09-26": 0
+    }
   },
   {
     "name": "Inventage",

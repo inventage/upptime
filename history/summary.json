@@ -86,19 +86,19 @@
     "url": "https://inventage.github.io/portal-components",
     "icon": "https://icons.duckduckgo.com/ip3/inventage.github.io.ico",
     "slug": "portal-components",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 121,
-    "timeDay": 43,
-    "timeWeek": 142,
+    "timeDay": 77,
+    "timeWeek": 143,
     "timeMonth": 121,
     "timeYear": 125,
     "dailyMinutesDown": {
-      "2023-10-03": 0
+      "2023-10-03": 11
     }
   }
 ]

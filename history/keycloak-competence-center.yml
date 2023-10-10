@@ -1,7 +1,7 @@
 url: https://keycloak.ch
-status: up
-code: 200
-responseTime: 234
-lastUpdated: 2023-10-09T23:05:12.828Z
+status: down
+code: 503
+responseTime: 5343
+lastUpdated: 2023-10-10T16:37:33.268Z
 startTime: 2020-12-07T14:44:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>

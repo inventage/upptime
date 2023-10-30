@@ -74,18 +74,20 @@
     "url": "https://uniport.ch",
     "icon": "https://icons.duckduckgo.com/ip3/uniport.ch.ico",
     "slug": "uniport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 171,
-    "timeDay": 197,
-    "timeWeek": 204,
-    "timeMonth": 214,
+    "timeDay": 169,
+    "timeWeek": 196,
+    "timeMonth": 211,
     "timeYear": 171,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-10-30": 0
+    }
   },
   {
     "name": "Portal Components",

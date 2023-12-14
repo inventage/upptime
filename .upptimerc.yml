@@ -8,6 +8,10 @@ sites:
     url: https://www.google.com
   - name: Inventage
     url: https://inventage.com
+  - name: Inventage Lab
+    url: https://lab.inventage.com/
+  - name: Inventage Tech Radar
+    url: https://techradar.inventage.com/
   - name: Keycloak Competence Center
     url: https://keycloak.ch
   - name: Uniport

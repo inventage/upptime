@@ -22,10 +22,10 @@
     "url": "https://inventage.com",
     "icon": "https://icons.duckduckgo.com/ip3/inventage.com.ico",
     "slug": "inventage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.95%",
     "time": 898,
@@ -34,6 +34,7 @@
     "timeMonth": 696,
     "timeYear": 878,
     "dailyMinutesDown": {
+      "2024-02-01": 1,
       "2023-10-12": 160,
       "2023-06-15": 21,
       "2023-05-16": 19,
@@ -45,9 +46,9 @@
     "url": "https://lab.inventage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lab.inventage.com.ico",
     "slug": "inventage-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -56,7 +57,9 @@
     "timeWeek": 1370,
     "timeMonth": 1306,
     "timeYear": 1245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-02-01": 0
+    }
   },
   {
     "name": "Inventage Tech Radar",
@@ -88,7 +91,7 @@
     "uptimeMonth": "96.80%",
     "uptimeYear": "99.40%",
     "time": 749,
-    "timeDay": 219,
+    "timeDay": 213,
     "timeWeek": 1129,
     "timeMonth": 1035,
     "timeYear": 853,

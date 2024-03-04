@@ -16,8 +16,8 @@ sites:
     url: https://keycloak.ch
   - name: Uniport
     url: https://uniport.ch
-  - name: Portal Components
-    url: https://inventage.github.io/portal-components
+  - name: Inventage Web Components
+    url: https://inventage.github.io/web-components
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain

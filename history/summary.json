@@ -22,19 +22,19 @@
     "url": "https://inventage.com",
     "icon": "https://icons.duckduckgo.com/ip3/inventage.com.ico",
     "slug": "inventage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "99.50%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.96%",
-    "time": 901,
+    "time": 898,
     "timeDay": 1785,
     "timeWeek": 1178,
     "timeMonth": 824,
     "timeYear": 883,
     "dailyMinutesDown": {
-      "2024-04-11": 7,
+      "2024-04-11": 0,
       "2023-10-12": 160,
       "2023-06-15": 21,
       "2023-05-16": 19
@@ -45,11 +45,11 @@
     "url": "https://lab.inventage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lab.inventage.com.ico",
     "slug": "inventage-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1350,
     "timeDay": 4952,
@@ -57,7 +57,7 @@
     "timeMonth": 1516,
     "timeYear": 1350,
     "dailyMinutesDown": {
-      "2024-04-11": 7
+      "2024-04-11": 0
     }
   },
   {

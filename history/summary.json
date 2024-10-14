@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 104,
-    "timeDay": 90,
-    "timeWeek": 98,
+    "timeDay": 85,
+    "timeWeek": 91,
     "timeMonth": 102,
     "timeYear": 102,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "slug": "inventage",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "98.33%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.76%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
     "time": 826,
-    "timeDay": 787,
-    "timeWeek": 738,
-    "timeMonth": 720,
-    "timeYear": 787,
+    "timeDay": 932,
+    "timeWeek": 779,
+    "timeMonth": 721,
+    "timeYear": 786,
     "dailyMinutesDown": {
       "2024-10-12": 24,
       "2024-06-06": 72
@@ -47,15 +47,15 @@
     "slug": "inventage-lab",
     "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "98.37%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
-    "time": 981,
-    "timeDay": 608,
-    "timeWeek": 708,
+    "time": 980,
+    "timeDay": 747,
+    "timeWeek": 738,
     "timeMonth": 687,
-    "timeYear": 981,
+    "timeYear": 980,
     "dailyMinutesDown": {
       "2024-10-12": 24,
       "2024-06-06": 72
@@ -73,9 +73,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 135,
-    "timeDay": 112,
-    "timeWeek": 150,
-    "timeMonth": 152,
+    "timeDay": 185,
+    "timeWeek": 160,
+    "timeMonth": 153,
     "timeYear": 135,
     "dailyMinutesDown": {}
   },
@@ -91,9 +91,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.13%",
     "time": 742,
-    "timeDay": 129,
-    "timeWeek": 160,
-    "timeMonth": 181,
+    "timeDay": 77,
+    "timeWeek": 154,
+    "timeMonth": 176,
     "timeYear": 798,
     "dailyMinutesDown": {
       "2024-02-05": 96,
@@ -115,8 +115,7 @@
       "2023-11-13": 542,
       "2023-10-24": 28,
       "2023-10-20": 101,
-      "2023-10-17": 25,
-      "2023-10-15": 70
+      "2023-10-17": 25
     }
   },
   {
@@ -130,11 +129,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 198,
-    "timeDay": 256,
-    "timeWeek": 236,
-    "timeMonth": 216,
-    "timeYear": 205,
+    "time": 199,
+    "timeDay": 560,
+    "timeWeek": 307,
+    "timeMonth": 229,
+    "timeYear": 206,
     "dailyMinutesDown": {
       "2023-10-30": 25
     }
@@ -151,9 +150,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 97,
-    "timeDay": 101,
-    "timeWeek": 115,
-    "timeMonth": 108,
+    "timeDay": 203,
+    "timeWeek": 136,
+    "timeMonth": 110,
     "timeYear": 97,
     "dailyMinutesDown": {}
   }

@@ -24,11 +24,11 @@
     "url": "https://inventage.com",
     "icon": "https://icons.duckduckgo.com/ip3/inventage.com.ico",
     "slug": "inventage",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.95%",
+    "uptimeDay": "99.95%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.94%",
     "uptimeYear": "99.98%",
     "time": 827,
     "timeDay": 685,
@@ -36,6 +36,7 @@
     "timeMonth": 729,
     "timeYear": 786,
     "dailyMinutesDown": {
+      "2024-10-21": 1,
       "2024-10-12": 24,
       "2024-06-06": 72
     }
@@ -45,9 +46,9 @@
     "url": "https://lab.inventage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lab.inventage.com.ico",
     "slug": "inventage-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.98%",
@@ -57,6 +58,7 @@
     "timeMonth": 680,
     "timeYear": 972,
     "dailyMinutesDown": {
+      "2024-10-21": 0,
       "2024-10-12": 24,
       "2024-06-06": 72
     }

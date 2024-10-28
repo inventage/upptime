@@ -32,7 +32,7 @@
     "uptimeYear": "99.98%",
     "time": 851,
     "timeDay": 768,
-    "timeWeek": 1579,
+    "timeWeek": 1661,
     "timeMonth": 1031,
     "timeYear": 813,
     "dailyMinutesDown": {
@@ -53,7 +53,7 @@
     "uptimeYear": "99.98%",
     "time": 1070,
     "timeDay": 653,
-    "timeWeek": 3199,
+    "timeWeek": 3387,
     "timeMonth": 1634,
     "timeYear": 1070,
     "dailyMinutesDown": {
@@ -120,9 +120,9 @@
     "url": "https://uniport.ch",
     "icon": "https://icons.duckduckgo.com/ip3/uniport.ch.ico",
     "slug": "uniport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -132,6 +132,7 @@
     "timeMonth": 269,
     "timeYear": 211,
     "dailyMinutesDown": {
+      "2024-10-28": 0,
       "2023-10-30": 25
     }
   },

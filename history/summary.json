@@ -118,18 +118,20 @@
     "url": "https://uniport.ch",
     "icon": "https://icons.duckduckgo.com/ip3/uniport.ch.ico",
     "slug": "uniport",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 345,
-    "timeWeek": 301,
-    "timeMonth": 280,
-    "timeYear": 215,
-    "dailyMinutesDown": {}
+    "timeDay": 272,
+    "timeWeek": 288,
+    "timeMonth": 278,
+    "timeYear": 214,
+    "dailyMinutesDown": {
+      "2024-11-20": 0
+    }
   },
   {
     "name": "Inventage Web Components",

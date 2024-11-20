@@ -118,19 +118,19 @@
     "url": "https://uniport.ch",
     "icon": "https://icons.duckduckgo.com/ip3/uniport.ch.ico",
     "slug": "uniport",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.66%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 211,
-    "timeDay": 272,
-    "timeWeek": 288,
-    "timeMonth": 278,
+    "timeDay": 252,
+    "timeWeek": 280,
+    "timeMonth": 276,
     "timeYear": 214,
     "dailyMinutesDown": {
-      "2024-11-20": 0
+      "2024-11-20": 19
     }
   },
   {

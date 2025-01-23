@@ -45,9 +45,9 @@
     "url": "https://lab.inventage.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lab.inventage.com.ico",
     "slug": "inventage-lab",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -57,6 +57,7 @@
     "timeMonth": 689,
     "timeYear": 966,
     "dailyMinutesDown": {
+      "2025-01-23": 0,
       "2024-10-12": 24,
       "2024-06-06": 72
     }

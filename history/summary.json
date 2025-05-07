@@ -86,9 +86,9 @@
     "url": "https://keycloak.ch",
     "icon": "https://icons.duckduckgo.com/ip3/keycloak.ch.ico",
     "slug": "keycloak-competence-center",
-    "status": "up",
+    "status": "down",
     "uptime": "99.77%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -97,7 +97,9 @@
     "timeWeek": 256,
     "timeMonth": 228,
     "timeYear": 205,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-05-07": 0
+    }
   },
   {
     "name": "Uniport",

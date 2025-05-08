@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 204,
-    "timeWeek": 132,
-    "timeMonth": 120,
-    "timeYear": 113,
+    "time": 111,
+    "timeDay": 165,
+    "timeWeek": 128,
+    "timeMonth": 122,
+    "timeYear": 114,
     "dailyMinutesDown": {
       "2025-04-29": 21
     }
@@ -30,10 +30,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 802,
-    "timeDay": 600,
-    "timeWeek": 818,
-    "timeMonth": 836,
+    "time": 760,
+    "timeDay": 709,
+    "timeWeek": 791,
+    "timeMonth": 764,
     "timeYear": 768,
     "dailyMinutesDown": {
       "2025-03-27": 25,
@@ -52,11 +52,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 913,
-    "timeDay": 766,
-    "timeWeek": 792,
-    "timeMonth": 902,
-    "timeYear": 841,
+    "time": 912,
+    "timeDay": 637,
+    "timeWeek": 754,
+    "timeMonth": 842,
+    "timeYear": 840,
     "dailyMinutesDown": {
       "2025-03-27": 25,
       "2024-10-12": 24,
@@ -74,10 +74,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 147,
-    "timeDay": 237,
-    "timeWeek": 180,
-    "timeMonth": 192,
+    "time": 148,
+    "timeDay": 196,
+    "timeWeek": 195,
+    "timeMonth": 189,
     "timeYear": 154,
     "dailyMinutesDown": {}
   },
@@ -88,18 +88,16 @@
     "slug": "keycloak-competence-center",
     "status": "up",
     "uptime": "99.77%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 214,
-    "timeDay": 351,
-    "timeWeek": 264,
+    "time": 213,
+    "timeDay": 252,
+    "timeWeek": 260,
     "timeMonth": 231,
     "timeYear": 205,
-    "dailyMinutesDown": {
-      "2025-05-07": 7
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Uniport",
@@ -113,10 +111,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 221,
-    "timeDay": 244,
-    "timeWeek": 283,
-    "timeMonth": 261,
-    "timeYear": 231,
+    "timeDay": 232,
+    "timeWeek": 260,
+    "timeMonth": 256,
+    "timeYear": 230,
     "dailyMinutesDown": {
       "2024-11-20": 19
     }
@@ -133,10 +131,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 105,
-    "timeDay": 77,
-    "timeWeek": 167,
+    "timeDay": 54,
+    "timeWeek": 165,
     "timeMonth": 123,
-    "timeYear": 107,
+    "timeYear": 106,
     "dailyMinutesDown": {}
   }
 ]
